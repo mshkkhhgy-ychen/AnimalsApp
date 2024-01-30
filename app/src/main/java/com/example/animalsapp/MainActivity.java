@@ -25,8 +25,8 @@ public class MainActivity extends AppCompatActivity implements AnimalAdapter.MyC
         animals = new ArrayList<>();
 
         /*animals.add(new Animal("Dolphin",R.drawable.dolphin));*/
-        animals.add(new Animal("Lion",R.drawable.lion));
-        animals.add(new Animal("Owl",R.drawable.owl));
+        animals.add(new Animal("Small Lion",R.drawable.lion));
+        animals.add(new Animal("Big Owl",R.drawable.owl));
         animals.add(new Animal("Parrot",R.drawable.parrot));
         animals.add(new Animal("Rabbit",R.drawable.rabbit));
         animals.add(new Animal("Tiger",R.drawable.tiger));
