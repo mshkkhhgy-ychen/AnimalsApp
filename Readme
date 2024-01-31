@@ -1,0 +1,31 @@
+ychen3641@lawn-128-61-49-253 AnimalsApp % java -version
+openjdk version "19.0.1" 2022-10-18
+OpenJDK Runtime Environment Zulu19.30+11-CA (build 19.0.1+10)
+OpenJDK 64-Bit Server VM Zulu19.30+11-CA (build 19.0.1+10, mixed mode, sharing)
+
+
+ychen3641@lawn-128-61-49-253 AnimalsApp % ./gradlew --version
+
+
+Welcome to Gradle 7.3.3!
+
+Here are the highlights of this release:
+ - Easily declare new test suites in Java projects
+ - Support for Java 17
+ - Support for Scala 3
+
+For more details see https://docs.gradle.org/7.3.3/release-notes.html
+
+
+------------------------------------------------------------
+Gradle 7.3.3
+------------------------------------------------------------
+
+Build time:   2021-12-22 12:37:54 UTC
+Revision:     6f556c80f945dc54b50e0be633da6c62dbe8dc71
+
+Kotlin:       1.5.31
+Groovy:       3.0.9
+Ant:          Apache Ant(TM) version 1.10.11 compiled on July 10 2021
+JVM:          19.0.1 (Azul Systems, Inc. 19.0.1+10)
+OS:           Mac OS X 13.4.1 aarch64
